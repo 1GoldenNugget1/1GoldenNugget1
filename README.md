@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1GoldenNugget1
 - 👀 I’m interested in computer games, cooking
-- 🌱 I’m currently learning N/A
+- 🌱 I’m currently learning YAML
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me:
 -twitter : https://twitter.com/KaspTheHedgehog
