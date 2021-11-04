@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning YAML
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me:
-- twitter : https://twitter.com/KaspTheHedgehog
-- telegram : 
+- twitter : https://twitter.com/KaspTheHedgehog -  telegram : 
 
 <!---
 1GoldenNugget1/1GoldenNugget1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
