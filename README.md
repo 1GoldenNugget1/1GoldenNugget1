@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me:
 
- twitter : https://twitter.com/KaspTheHedgehog<br>  
+twitter : https://twitter.com/KaspTheHedgehog<br>  
 telegram : N/A <br>
 discord : Kaspersky Wafel#8927 <br>   
 
