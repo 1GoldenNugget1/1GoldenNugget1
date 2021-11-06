@@ -3,10 +3,11 @@
 - 🌱 I’m currently learning YAML
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me:
+
  twitter : https://twitter.com/KaspTheHedgehog
 
  telegram : N/A
- 
+
  discord : Kaspersky Wafel#8927    
 
 <!---
