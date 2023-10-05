@@ -8,8 +8,7 @@ twitter : https://twitter.com/KaspTheHedgehog
 
 telegram : N/A  
 
-discord : Kaspersky Wafel#8927  
-    
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ableton,tybescript)](https://skillicons.dev)    
 
 <!---
 1GoldenNugget1/1GoldenNugget1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
