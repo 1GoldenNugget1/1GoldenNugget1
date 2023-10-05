@@ -8,7 +8,7 @@ twitter : https://twitter.com/KaspTheHedgehog
 
 telegram : N/A  
 
-[![My Skills](https://skillicons.dev/icons?i=ts,html,css,ableton&perline=3)](https://skillicons.dev)    
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,ableton,discord,bots&perline=3)](https://skillicons.dev)    
 
 <!---
 1GoldenNugget1/1GoldenNugget1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
