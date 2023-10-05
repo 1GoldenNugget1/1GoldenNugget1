@@ -1,13 +1,11 @@
-- 👋 Hi, I’m @1GoldenNugget1
-- 👀 I’m interested in computer games, cooking
-- 🌱 I’m currently learning YAML
-- 💞️ I’m looking to collaborate on N/A
-- 📫 How to reach me:
 
-twitter : https://twitter.com/KaspTheHedgehog 
+hello i am GoldenNugget but you can also call me Kasp
+i will sometime upload something here so yall could use it 
 
-telegram : N/A  
 
+
+
+My skills:
 [![My Skills](https://skillicons.dev/icons?i=ts,html,css,ableton,discord,bots&perline=3)](https://skillicons.dev)    
 
 <!---
