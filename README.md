@@ -5,7 +5,7 @@ i will sometime upload something here so yall could use it
 
 
 
-My skills:
+## My skills:
 [![My Skills](https://skillicons.dev/icons?i=ts,html,css,ableton,discord,bots&perline=3)](https://skillicons.dev)    
 
 <!---
