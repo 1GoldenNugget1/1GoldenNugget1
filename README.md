@@ -6,10 +6,13 @@ i will sometime upload something here so yall could use it
 
 
 ## My skills:
-[![My Skills](https://skillicons.dev/icons?i=ts,discordjs,js,html,css,discord,bots,vscode,md,ableton,&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,discordjs,js,html,css,discord,bots,vscode,md,ableton,arduino,nodejs,obsidian&theme=dark&perline=5)](https://skillicons.dev)
 
 ## Things i want to learn:
-[![ThingsIwantToLearn](https://skillicons.dev/icons?i=cs,cpp,docker,react,selenium,mysql&theme=dark&perline=3)](https://skillicons.dev)
+[![ThingsIwantToLearn](https://skillicons.dev/icons?i=cs,cpp,docker,react,selenium,mysql,rust&theme=dark&perline=4)](https://skillicons.dev)
+
+## OS's in my use:
+[![OS](https://skillicons.dev/icons?i=windows,ubuntu,&theme=dark&perline=5)](https://skillicons.dev)
 
 **Feel Free to Review my code and tell me what i could do better**<br>
 **Stay safe and let the code be on yall side!**
