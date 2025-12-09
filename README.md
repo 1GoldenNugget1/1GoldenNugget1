@@ -9,7 +9,7 @@ i will sometime upload something here so yall could use it
 [![My Skills](https://skillicons.dev/icons?i=ts,discordjs,js,html,css,discord,bots,vscode,md,ableton,arduino,nodejs,obsidian,docker&theme=dark&perline=5)](https://skillicons.dev)
 
 ## Things i want to learn:
-[![ThingsIwantToLearn](https://skillicons.dev/icons?i=cs,cpp,react,selenium,mysql,rust&theme=dark&perline=4)](https://skillicons.dev)
+[![ThingsIwantToLearn](https://skillicons.dev/icons?i=cs,cpp,mysql,react,selenium,rust&theme=dark&perline=4)](https://skillicons.dev)
 
 ## OS's in my use:
 [![OS](https://skillicons.dev/icons?i=windows,ubuntu,&theme=dark&perline=5)](https://skillicons.dev)
@@ -20,3 +20,4 @@ i will sometime upload something here so yall could use it
 1GoldenNugget1/1GoldenNugget1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
