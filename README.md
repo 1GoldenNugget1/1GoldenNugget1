@@ -11,7 +11,7 @@ i will sometime upload something here so yall could use it
 
 
 ## OS's in my use:
-[![OS](https://skillicons.dev/icons?i=windows,ubuntu,&theme=dark&perline=5)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=windows,ubuntu,arch&theme=dark&perline=5)](https://skillicons.dev)
 
 **Feel Free to Review my code and tell me what i could do better**<br>
 **Stay safe and let the code be on yall side!**
